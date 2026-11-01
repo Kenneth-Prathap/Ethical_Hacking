@@ -12,12 +12,7 @@
      Subject: Ethical Hacking (CR23531)
      Academic Year: 2026 - 2027
 ---
-# 🛡️ Ethical Hacking & Cyber Security Lab Manuals
-
-![Security Status](https://img.shields.io/badge/Security-Lab%20Manuals-brightgreen?style=for-the-badge&logo=shield)
-![Exercises](https://img.shields.io/badge/Exercises-1%20to%2017-blue?style=for-the-badge)
-![Purpose](https://img.shields.io/badge/Purpose-Educational%20%26%20Research-orange?style=for-the-badge)
-
+# 🛡️ Ethical Hacking Lab Manual
 A comprehensive collection of practical lab reports, network captures, and vulnerability assessment documentations covering core Offensive and Defensive Cyber Security methodologies.
 
 ---
